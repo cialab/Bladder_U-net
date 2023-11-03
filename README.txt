@@ -1,6 +1,8 @@
 This is a directory containing the code produced by Enes Yazgan
 in the summer of 2019, for the purpose of identifying different tissue
-layers in bladder biopsy slides using U-Nets
+layers in bladder biopsy slides using U-Nets.
+
+Model weights are located at 10.5281/zenodo.10070343
 
 Directories:
 NOTE: 	Each file is single_purpose, and written in a straightforward way. Reading through
